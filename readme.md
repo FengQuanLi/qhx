@@ -3,6 +3,12 @@
  游戏由[upbge](https://upbge.org/) 0.3开发
  由于占用空间太大 只能由百度网盘下载[游戏项目](https://pan.baidu.com/s/1nlBqByabsOMRaTlPYe6vvQ)  
  密码: 604b
+ 部分地区可能无法从官网下载游戏引擎
+ 可用百度网盘  
+ [linux版本_64位](https://pan.baidu.com/s/1ioewOha9kzMwhFU_U0r83w)      
+密码: olhf  
+[win版本_64位](https://pan.baidu.com/s/1QT0fyGhAhYx59egwS0EyJQ)    
+密码: 3138
 
 
 ##  2、AI部分
