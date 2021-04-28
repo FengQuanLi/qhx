@@ -7,8 +7,9 @@
  可用百度网盘  
  [linux版本_64位](https://pan.baidu.com/s/1ioewOha9kzMwhFU_U0r83w)      
 密码: olhf  
-[win版本_64位](https://pan.baidu.com/s/1QT0fyGhAhYx59egwS0EyJQ)    
-密码: 3138
+[win版本_64位](https://pan.baidu.com/s/1YkGwpAjY7pvMa0FWtVAGiA)    
+密码: 7bga
+
 
 
 ##  2、AI部分
