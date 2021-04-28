@@ -10,7 +10,6 @@
 百度网盘下载[演示模型](https://pan.baidu.com/s/1QiVwmozsKd1DhEhn6utyzQ)  
 密码: n2s1
 
-链接: https://pan.baidu.com/s/1QiVwmozsKd1DhEhn6utyzQ  
 ##  3、此项目目前的状态
 刚刚起步，问题较多。
 可以参看[B站演示视频](https://www.bilibili.com/video/BV1jh411S7LH)  
