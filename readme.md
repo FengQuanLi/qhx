@@ -8,7 +8,12 @@
  [linux版本_64位](https://pan.baidu.com/s/1ioewOha9kzMwhFU_U0r83w)      
 密码: olhf  
 [win版本_64位](https://pan.baidu.com/s/1YkGwpAjY7pvMa0FWtVAGiA)    
-密码: 7bga
+密码: 7bga  
+项目来源  
+[汽车模型来源](https://blendswap.com/blend/25287)  
+[城市模型来源](https://www.cgtrader.com/free-3d-models/architectural/street/realistic-city-52b92dfa-197d-4d9e-97a8-955cad13b603 )  
+[汽车动力学来源](https://github.com/BiancaMel/CustomVehiclePhysics-UPBGE)  
+
 
 
 
